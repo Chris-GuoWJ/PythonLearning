@@ -1,2 +1,1 @@
-"# My Python-Learning Notes" 
-"## Ŀ¼" 
+# My Python-Learning Notes 
